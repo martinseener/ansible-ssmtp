@@ -1,9 +1,7 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
 ssmtp
 =====
 
-[![Build Status](https://travis-ci.org/kbrebanov/ansible-ssmtp.svg?branch=master)](https://travis-ci.org/kbrebanov/ansible-ssmtp)
+[![Build Status](https://travis-ci.org/martinseener/ansible-ssmtp.svg?branch=master)](https://travis-ci.org/martinseener/ansible-ssmtp)
 
 Installs and configures sSMTP
 
@@ -72,4 +70,5 @@ BSD
 Author Information
 ------------------
 
-Kevin Brebanov
+Original Author: Kevin Brebanov
+Maintainer of this Fork: Martin Seener
